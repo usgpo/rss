@@ -5,4 +5,6 @@ In addition to our forthcoming sitemaps implementation for **govinfo**, GPO prov
 
 Our RSS feeds currently provide notice for new as well as updated versions of content. From time to time, when we need to do reprocessing of large volumes of content, we may suspend the notifications of updates for an individual collection, but we will notify users of this through this repository. In this case, it may be useful to review our [sitemaps](https://www.github/usgpo/sitemap) repository. 
 
+[OPML](https://www.github.com/usgpo/rss/tree/master/opml) files are also available for easy subscription to all of the feeds or a set of feeds based on category.
+
 [WebSub](https://github.com/w3c/websub) support is on our future roadmap.

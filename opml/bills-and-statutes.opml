@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>All available RSS feeds for govinfo in the Bills and Statutes category, allowing users to find new and updated official publications from the Congressional Bills, Public and Private Laws, United States Code, and Statutes at Large collections.</title>
+    </head>
+    <body>
+        <outline text="Bills and Statutes" title="Bills and Statutes">
+            <outline type="rss" text="Congressional Bills - New items on govinfo" title="Congressional Bills - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/bills.xml" htmlUrl="https://www.govinfo.gov/app/collection/bills"/>
+            <outline type="rss" text="Public and Private Laws - New items on govinfo" title="Public and Private Laws - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/plaw.xml" htmlUrl="https://www.govinfo.gov/app/collection/plaw"/>
+            <outline type="rss" text="United States Code - New items on govinfo" title="United States Code - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/uscode.xml"/>
+            <outline type="rss" text="United States Statutes at Large - New items on govinfo" title="United States Statutes at Large - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/statute.xml"/>
+        </outline>
+    </body>
+</opml>

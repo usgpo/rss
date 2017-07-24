@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available Budget and Presidential Materials RSS feeds for govinfo, allowing users to find new and updated official publications from the Budget, Compilation of Presidential Documents, Economic Report of the President, and Public Papers of the President collections</title>
+	</head>
+	<body>
+		<outline text="Budget and Presidential Materials" title="Budget and Presidential Materials">
+            <outline type="rss" text="Budget of the United States Government - New items on govinfo" title="Budget of the United States Government - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/budget.xml" htmlUrl="https://www.govinfo.gov/app/collection/budget"/>
+            <outline type="rss" text="Compilation of Presidential Documents - New items on govinfo" title="Compilation of Presidential Documents - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/dcpd.xml" htmlUrl="https://www.govinfo.gov/app/collection/cpd"/>
+            <outline type="rss" text="Economic Report of the President - New items on govinfo" title="Economic Report of the President - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/erp.xml"/>
+            <outline type="rss" text="Public Papers of the Presidents of the United States - New items on govinfo" title="Public Papers of the Presidents of the United States - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/ppp.xml"/>
+        </outline>
+	</body>
+</opml>

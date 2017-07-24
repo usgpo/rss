@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available Proceedings of Congress and General Congressional Publications RSS feeds for govinfo, allowing users to find new and updated Congressional Calendars, Congressional Record (Bound), Congressional Record,  Congressional Record Index, History of Bills, and Journal of the House of Representatives.</title>
+	</head>
+	<body>
+		<outline text="Proceedings of Congress and General Congressional Publications" title="Proceedings of Congress and General Congressional Publications">
+			<outline type="rss" text="Congressional Calendars - New items on govinfo" title="Congressional Calendars - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/ccal.xml" htmlUrl="https://www.govinfo.gov/app/collection/ccal"/>
+			<outline type="rss" text="Congressional Record - New items on govinfo" title="Congressional Record - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/crec.xml" htmlUrl="https://www.govinfo.gov/app/collection/crec"/>
+			<outline type="rss" text="Congressional Record (Bound Edition) - New items on govinfo" title="Congressional Record (Bound Edition) - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/crecb.xml" htmlUrl="https://www.govinfo.gov/app/collection/crecb"/>
+			<outline type="rss" text="Congressional Record Index - New items on govinfo" title="Congressional Record Index - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cri.xml"/>
+			<outline type="rss" text="History of Bills - New items on govinfo" title="History of Bills - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/hob.xml"/>
+			<outline type="rss" text="Journal of the House of Representatives - New items on govinfo" title="Journal of the House of Representatives - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/hjournal.xml"/>
+		</outline>
+	</body>
+</opml>

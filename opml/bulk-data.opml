@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available bulk data RSS feeds for govinfo, allowing users to find new and updated bulk data (xml) files from all three branches of the United States Government, including Congressional Bills, Congressional Bill Summaries and Status, Code of Federal Regulations (Annual Edition), the daily Electronic Code of Federal Regulations, Federal Register, Privacy Act Issuances, and the Public Papers of the Presidents.</title>
+	</head>
+	<body>
+		<outline text="Bulk Data" title="Bulk Data">
+			<outline type="rss" text="Congressional Bills - Bulk Data Feed items on govinfo" title="Congressional Bills - Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/bills-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/BILLS"/>
+			<outline type="rss" text="Bill Summaries - Bulk Data Feed items on govinfo" title="Bill Summaries - Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/billsum-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/BILLSUM"/>
+			<outline type="rss" text="Bill Status - Bulk Data Feed items on govinfo" title="Bill Status - Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/billstatus-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/BILLSTATUS"/>
+			<outline type="rss" text="Code of Federal Regulations (Annual Edition)- Bulk Data Feed items on govinfo" title="Code of Federal Regulations (Annual Edition)- Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cfr-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/CFR"/>
+			<outline type="rss" text="Electronic Code of Federal Regulations- Bulk Data Feed items on govinfo" title="Electronic Code of Federal Regulations- Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/ecfr-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/ECFR"/>
+			<outline type="rss" text="Federal Register- Bulk Data Feed items on govinfo" title="Federal Register- Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/fr-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/FR"/>
+			<outline type="rss" text="Government Manual - Bulk Data Feed items on govinfo" title="Government Manual - Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/govman-bulkdata.xml"/>
+			<outline type="rss" text="House Manual - Bulk Data Feed items on govinfo" title="House Manual - Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/hman-bulkdata.xml"/>
+			<outline type="rss" text="Privacy Act Issuances- Bulk Data Feed items on govinfo" title="Privacy Act Issuances- Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/pai-bulkdata.xml"/>
+			<outline type="rss" text="Public Papers of the Presidents of the United States- Bulk Data Feed items on govinfo" title="Public Papers of the Presidents of the United States- Bulk Data Feed items on govinfo" xmlUrl="https://www.govinfo.gov/rss/ppp-bulkdata.xml" htmlUrl="https://www.govinfo.gov/bulkdata/PPP"/>
+		</outline>
+	</body>
+</opml>

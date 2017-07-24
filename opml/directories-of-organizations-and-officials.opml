@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available Directories of Organizations and Officials RSS feeds for govinfo, allowing users to find new and updated official publications from the Congressional Directory and United States Government Manual.</title>
+	</head>
+	<body>
+		<outline text="Directories of Organizations and Officials" title="Directories of Organizations and Officials">
+			<outline type="rss" text="United States Government Manual - New items on govinfo" title="United States Government Manual - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/govman.xml"/>
+			<outline type="rss" text="Congressional Directory - New items on govinfo" title="Congressional Directory - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cdir.xml"/>
+		</outline>
+	</body>
+</opml>

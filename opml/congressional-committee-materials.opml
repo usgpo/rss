@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available RSS feeds for govinfo, allowing users to find new and updated official publications from Congressional committees, including Congressional Committee Prints, Congressional Hearings, Congressional Reports, and Economic Indicators.</title>
+	</head>
+	<body>
+		<outline text="Congressional Committee Materials" title="Congressional Committee Materials">
+			<outline type="rss" text="Congressional Committee Prints - New items on govinfo" title="Congressional Committee Prints - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cprt.xml" htmlUrl="https://www.govinfo.gov/app/collection/cprt"/>
+			<outline type="rss" text="Congressional Hearings - New items on govinfo" title="Congressional Hearings - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/chrg.xml" htmlUrl="https://www.govinfo.gov/app/collection/chrg"/>
+			<outline type="rss" text="Congressional Reports - New items on govinfo" title="Congressional Reports - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/crpt.xml" htmlUrl="https://www.govinfo.gov/app/collection/crpt"/>
+			<outline type="rss" text="Economic Indicators - New items on govinfo" title="Economic Indicators - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/econi.xml" htmlUrl="https://www.govinfo.gov/app/collection/econi"/>
+		</outline>
+	</body>
+</opml>

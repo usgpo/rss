@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available RSS feeds for govinfo related to Congressional Rules and Procedures, allowing users to find new and updated Congressional Documents, House Manual, and Senate Manual.</title>
+	</head>
+	<body>
+       <outline text="Congressional Rules and Procedures" title="Congressional Rules and Procedures">
+            <outline type="rss" text="Congressional Documents - New items on govinfo" title="Congressional Documents - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cdoc.xml" htmlUrl="https://www.govinfo.gov/app/collection/cdoc"/>
+            <outline type="rss" text="House Rules and Manual - New items on govinfo" title="House Rules and Manual - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/hman.xml" htmlUrl="https://www.govinfo.gov/app/collection/hman"/>
+            <outline type="rss" text="Senate Manual - New items on govinfo" title="Senate Manual - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/sman.xml"/>
+        </outline>
+	</body>
+</opml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+		<title>All available Regulatory Information RSS feeds for govinfo, allowing users to find new and updated official publications from the Code of Federal Regulations, Federal Register, List of CFR Sections Affected, and Privacy Act Issuances collections.</title>
+	</head>
+	<body>
+		<outline text="Regulatory Information" title="Regulatory Information">
+			<outline type="rss" text="Code of Federal Regulations (Annual Edition) - New items on govinfo" title="Code of Federal Regulations (Annual Edition) - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cfr.xml" htmlUrl="https://www.govinfo.gov/app/collection/cfr"/>
+			<outline type="rss" text="Federal Register - New items on govinfo" title="Federal Register - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/fr.xml" htmlUrl="https://www.govinfo.gov/app/collection/fr"/>
+			<outline type="rss" text="List of CFR Sections Affected - New items on govinfo" title="List of CFR Sections Affected - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/lsa.xml"/>
+			<outline type="rss" text="Privacy Act Issuances - New items on govinfo" title="Privacy Act Issuances - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/pai.xml"/>
+		</outline>
+	</body>
+</opml>
