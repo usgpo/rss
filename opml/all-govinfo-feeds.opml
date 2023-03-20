@@ -183,6 +183,8 @@
 			<outline type="rss" text="Code of Federal Regulations (Annual Edition) - New items on govinfo" title="Code of Federal Regulations (Annual Edition) - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/cfr.xml" htmlUrl="https://www.govinfo.gov/app/collection/cfr"/>
 			<outline type="rss" text="Privacy Act Issuances - New items on govinfo" title="Privacy Act Issuances - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/pai.xml"/>
 			<outline type="rss" text="Federal Register - New items on govinfo" title="Federal Register - New items on govinfo" xmlUrl="https://www.govinfo.gov/rss/fr.xml" htmlUrl="https://www.govinfo.gov/app/collection/fr"/>
+			<outline type="rss" text="FDIC: Press Releases" title="FDIC: Press Releases" xmlUrl="https://public.govdelivery.com/topics/USFDIC_26/feed.rss"/>
+			<outline type="rss" text="Food and Drug Administration: News" title="Food and Drug Administration: News" xmlUrl="https://public.govdelivery.com/accounts/USFDA/feed.rss"/>
 		</outline>
 	</body>
 </opml>
